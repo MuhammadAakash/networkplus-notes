@@ -17,7 +17,7 @@ exam domain broken down with what's covered so far.
 ### Domain weight snapshot (N10-009)
 | Domain | Weight | Status |
 |---|---|---|
-| 1.0 Networking Concepts | 23% | 🟡 In progress |
+| 1.0 Networking Concepts | 23% | 🟡 In progress (2/9 topics) |
 | 2.0 Network Implementation | 20% | ⬜ Not started |
 | 3.0 Network Operations | 19% | ⬜ Not started |
 | 4.0 Network Security | 14% | ⬜ Not started |
