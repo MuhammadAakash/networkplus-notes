@@ -49,9 +49,6 @@ network**. It's also known as the **MAC Address layer**.
   - **EUI-48** (48-bit — the traditional/common format)
   - **EUI-64** (64-bit — used in some newer addressing, e.g. IPv6 interface IDs)
 
-> 📝 **Correction:** Your notes wrote this as "EVI-48" / "EVI-64" — the
-> correct term is **EUI** (Extended **Unique** Identifier), not EVI.
-
 ---
 
 ## Layer 3: Network Layer
@@ -134,14 +131,3 @@ A simple way to map each layer to something intuitive:
 
 **Mnemonic:** *"Please Do Not Throw Sausage Pizza Away"* (Physical, Data Link,
 Network, Transport, Session, Presentation, Application)
-
----
-
-### 📌 Notes on corrections/clarifications made
-1. **EUI, not EVI** — "Extended Unique Identifier" is the correct term for
-   MAC address formats (EUI-48 / EUI-64).
-2. Added the **TCP/UDP distinction** (reliable vs. connectionless) since your
-   notes mentioned "TCP Segment, UDP Diagram" but didn't detail the difference
-   — this is a very common Network+ exam point.
-3. Added the **PDNTSPA mnemonic** since it's a quick recall tool most people
-   use for the 7 layers in exams.
