@@ -23,11 +23,8 @@ jobs:
       - name: Prepare publish directory
         run: |
           mkdir -p _site
-          rsync -av --delete \
-            --exclude '.git/' \
-            --exclude '.github/' \
-            --exclude '_site/' \
-            ./ ./_site/
+          cp index.html .nojekyll README.md _sidebar.md progress-tracker.md _site/
+          cp [0-9][0-9]-*.md _site/ 2>/dev/null || true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
