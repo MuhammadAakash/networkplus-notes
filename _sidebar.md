@@ -5,9 +5,9 @@
 - **1. Networking Fundamentals**
   - [OSI Model](01-osi-model.md)
   - [Networking Devices & Appliances](02-networking-devices.md)
+  - [Networking Functions, Services & IP Protocol](03-networking-functions-services.md)
 
 - **2. Network Implementations**
-  <!-- next topics will be added here -->
 
 - **3. Network Operations**
 

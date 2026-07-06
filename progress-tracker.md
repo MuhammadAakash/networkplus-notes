@@ -22,7 +22,7 @@ pie showData
 
 ## 1.0 Networking Concepts — 23%
 - [x] OSI Model — [notes](01-osi-model.md)
-- [x] Networking appliances, applications, and functions — [notes](02-networking-devices.md)
+- [x] Networking appliances, applications, and functions — [notes](02-networking-devices.md), [notes](03-networking-functions-services.md)
 - [ ] Cloud concepts and connectivity options (IaaS/PaaS/SaaS, public/private/hybrid)
 - [ ] Common ports, protocols, services, and traffic types
 - [ ] Transmission media and transceivers (copper, fiber, SFP/QSFP)
@@ -41,7 +41,7 @@ pie showData
 - [ ] Organizational processes and procedures (documentation, change management)
 - [ ] Network monitoring technologies (SNMP, flow data, packet capture, SIEM)
 - [ ] Disaster recovery concepts (RPO, RTO, MTTR, MTBF, DR sites)
-- [ ] IPv4/IPv6 network services (DHCP, DNS, NTP)
+- [ ] IPv4/IPv6 network services (DHCP, DNS, NTP) — DNS/TTL basics covered in [notes](03-networking-functions-services.md)
 - [ ] Network access and management methods (VPN, SSH, jump box, in-band/out-of-band)
 
 ## 4.0 Network Security — 14%
