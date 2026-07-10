@@ -23,7 +23,7 @@ pie showData
 ## 1.0 Networking Concepts — 23%
 - [x] OSI Model — [notes](01-osi-model.md)
 - [x] Networking appliances, applications, and functions — [notes](02-networking-devices.md), [notes](03-networking-functions-services.md)
-- [x] Cloud concepts and connectivity options (IaaS/PaaS/SaaS, public/private/hybrid) — [notes](04-cloud-concepts-virtual-networks.md)
+- [x] Cloud concepts and connectivity options (IaaS/PaaS/SaaS, public/private/hybrid) — [notes](04-cloud-concepts-virtual-networks.md), [notes](05-cloud-models.md)
 - [ ] Common ports, protocols, services, and traffic types
 - [ ] Transmission media and transceivers (copper, fiber, SFP/QSFP)
 - [ ] Network topologies, architectures, and types (mesh, star, spine-leaf, etc.)

@@ -7,6 +7,7 @@
   - [Networking Devices & Appliances](02-networking-devices.md)
   - [Networking Functions, Services & IP Protocol](03-networking-functions-services.md)
   - [Cloud Concepts & Virtual Networks](04-cloud-concepts-virtual-networks.md)
+  - [Cloud Models (SaaS, PaaS, IaaS)](05-cloud-models.md)
 
 - **2. Network Implementations**
   <!-- next topics will be added here -->
