@@ -9,7 +9,7 @@ Mermaid where the original was hand-drawn.
 
 Use the sidebar (or search, top left) to jump to a topic.
 
-👉 **[View the full N10-009 Progress Tracker](progress-tracker.md)** — every
+👉 **[Network+ N10-009 Exam Progress Tracker](progress-tracker.md)** — every
 exam domain broken down with what's covered so far.
 
 ---
